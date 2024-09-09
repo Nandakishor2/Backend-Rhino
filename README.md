@@ -22,7 +22,7 @@ This repository contains the backend code for a suggestion system built using Dj
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Backend-rhino.git
+[git clone https://github.com/YourUsername/Backend-rhino.git](https://github.com/Nandakishor2/Backend-Rhino.git)
 cd Backend-rhino
 ```
 ### 2.Install Dependencies
