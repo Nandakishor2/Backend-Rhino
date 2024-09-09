@@ -24,3 +24,14 @@ This repository contains the backend code for a suggestion system built using Dj
 ```bash
 git clone https://github.com/YourUsername/Backend-rhino.git
 cd Backend-rhino
+```
+### 2.Install Dependencies
+pip install -r requirements.txt
+
+### 3. Apply Migrations
+python manage.py migrate
+
+### 4. Run server 
+python manage.py runserver
+
+
